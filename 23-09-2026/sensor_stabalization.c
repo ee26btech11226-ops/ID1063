@@ -24,7 +24,11 @@ break;
 }
 
 }
+if(index==0)
+{return -1;}
+else{
 return index;
+}
 }
 
 
